@@ -1,0 +1,15 @@
+{
+  "name": "feedback-ang-api",
+  "description": "a fake api for serving datas related to one of frontend-mentor exercices",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "wallas938, frontend-mentor, json-server, heroku, node, REST API"
+  ],
+  "author": "Wallas938",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
